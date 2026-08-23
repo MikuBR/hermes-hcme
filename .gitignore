@@ -1,0 +1,26 @@
+# Python / Agent
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.hermes/
+*.egg-info/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Project artifacts
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.cache/
+output/
